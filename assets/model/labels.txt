@@ -1,0 +1,19 @@
+0 Neem
+1 Basale
+2 Hibiscus Rosa-sinensis
+3 Jasmine
+4 Mint
+5 Tulsi
+6 Betel
+7 Sandalwood
+8 Alstonia Scholaris
+9 Arjun
+10 Chinar
+11 Gauva
+12 Jamun
+13 Jatropha
+14 Lemon
+15 Mango
+16 Pomegranate
+17 Pongamia Pinnata
+18 Drumstick
