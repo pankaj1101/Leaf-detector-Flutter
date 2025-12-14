@@ -5,6 +5,7 @@ void main() {
   runApp(const MyApp());
 }
 
+// Test conflict...
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
